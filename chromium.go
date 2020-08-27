@@ -9,7 +9,7 @@ import (
 
 const (
 	indexMagicNumber uint64 = 0x656e74657220796f
-	indexVersion     uint32 = 6
+	indexVersion     uint32 = 9
 
 	indexHeaderSize int64 = 36
 	indexEntrySize  int64 = 24
